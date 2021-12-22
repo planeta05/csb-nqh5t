@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://planeta05.github.io/csb-nqh5t/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://planeta05.github.io/csb-nqh5t/static/js/main.e650fd12.chunk.js",
+    "main.js.map": "https://planeta05.github.io/csb-nqh5t/static/js/main.e650fd12.chunk.js.map",
+    "runtime-main.js": "https://planeta05.github.io/csb-nqh5t/static/js/runtime-main.4b2c9097.js",
+    "runtime-main.js.map": "https://planeta05.github.io/csb-nqh5t/static/js/runtime-main.4b2c9097.js.map",
+    "static/js/2.69b67d5d.chunk.js": "https://planeta05.github.io/csb-nqh5t/static/js/2.69b67d5d.chunk.js",
+    "static/js/2.69b67d5d.chunk.js.map": "https://planeta05.github.io/csb-nqh5t/static/js/2.69b67d5d.chunk.js.map",
+    "index.html": "https://planeta05.github.io/csb-nqh5t/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://planeta05.github.io/csb-nqh5t/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.69b67d5d.chunk.js.LICENSE.txt": "https://planeta05.github.io/csb-nqh5t/static/js/2.69b67d5d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b2c9097.js",
+    "static/js/2.69b67d5d.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.e650fd12.chunk.js"
+  ]
+}
